@@ -1,2 +1,1 @@
 ogarcia/archlinux:latest
-nginx
