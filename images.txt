@@ -1,1 +1,2 @@
 ogarcia/archlinux:latest
+jellyfin/jellyfin:latest
